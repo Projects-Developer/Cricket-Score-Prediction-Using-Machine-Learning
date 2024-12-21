@@ -1,6 +1,8 @@
 # Cricket-Score-Prediction-Using-Machine-Learning
 Cricket Score Prediction Using Machine Learning Code, Ducument And Video Tutorial
 
+![Cricket score](https://github.com/user-attachments/assets/7608728f-d74a-4b84-bc42-3f51c8a76e84)
+
 ## Youtube link: https://youtu.be/6hUSAyxymRA?si=sI5jlgQxHd3GUHZ0
 
 ## Abstract:
